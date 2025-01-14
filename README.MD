@@ -30,7 +30,7 @@ GamaApp：
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Diagramção GamaApp
+- Diagramação GamaApp
 
 ## 📚 Link do e-book
 
